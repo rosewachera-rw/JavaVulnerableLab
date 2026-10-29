@@ -8,4 +8,4 @@ You can scan it with Snyk, by simply creating your own fork and by adding a proj
 
 To scan the application with Coverity Scan, you would need to build it with the coverity scan build tool for java. The installer and instructions on how to build, visit https://scan.coverity.com/download?tab=java
 
-Synk enables dynamic application security testing (DAST) while Coverity Scan does static application security testing (SAST). When these are combine, the security of an application is enhanced. 
+Synk enables dynamic application security testing (DAST) while Coverity Scan facilitates static application security testing (SAST). When these are combine, the security of an application is enhanced. 
