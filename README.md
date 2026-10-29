@@ -1,4 +1,4 @@
-## Source Code Analysis (SCA) with Synk and Coverity Scan
+## Source Code Analysis (SCA) with Snyk and Coverity Scan
 
 This fork is an example of a vulnerable Java application, developed by Cyber Security and Privacy Foundation.
 
@@ -8,4 +8,4 @@ You can scan it with Snyk, by simply creating your own fork and by adding a proj
 
 To scan the application with Coverity Scan, you would need to develop it with the coverity scan build tool for java. The installer and instructions on how to build, visit https://scan.coverity.com/download?tab=java
 
-Synk enables dynamic application security testing (DAST) while Coverity Scan facilitates static application security testing (SAST). When these techniques are combined, the security of an application is enhanced. 
+Snyk enables dynamic application security testing (DAST) while Coverity Scan facilitates static application security testing (SAST). When these techniques are combined, the security of an application is enhanced. 
