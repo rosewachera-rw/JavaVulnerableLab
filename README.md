@@ -1,4 +1,4 @@
-This fork is a sample of a vulnerable java application, developed by Cyber Security and Privacy Foundation.
+This fork is an example of a vulnerable Java application, developed by Cyber Security and Privacy Foundation.
 
 The only modification done is updating the Maven source & target to 1.6 (for running with JDK 11). Change that if you are using newer/older Java. Note that using newer Java will require code changes.
 
